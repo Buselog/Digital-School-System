@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BUSE\\Desktop\\Projeler\\Asp.Net_EOkulWeb\\EOkulWeb_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{363E3CEA-8B12-4F91-8C63-7242A528B0CB}|EOkulWeb_Project.csproj|c:\\users\\buse\\desktop\\projeler\\asp.net_eokulweb\\eokulweb_project\\loginpanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{363E3CEA-8B12-4F91-8C63-7242A528B0CB}|EOkulWeb_Project.csproj|solutionrelative:loginpanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363E3CEA-8B12-4F91-8C63-7242A528B0CB}|EOkulWeb_Project.csproj|c:\\users\\buse\\desktop\\projeler\\asp.net_eokulweb\\eokulweb_project\\dosyalar1\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{363E3CEA-8B12-4F91-8C63-7242A528B0CB}|EOkulWeb_Project.csproj|solutionrelative:dosyalar1\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\BUSE\\Desktop\\Projeler\\Asp.Net_EOkulWeb\\EOkulWeb_Project\\Dosyalar1\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "Dosyalar1\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\BUSE\\Desktop\\Projeler\\Asp.Net_EOkulWeb\\EOkulWeb_Project\\Dosyalar1\\bootstrap.min.css",
+              "RelativeToolTip": "Dosyalar1\\bootstrap.min.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-18T19:22:13.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPanel.aspx",
+              "DocumentMoniker": "C:\\Users\\BUSE\\Desktop\\Projeler\\Asp.Net_EOkulWeb\\EOkulWeb_Project\\LoginPanel.aspx",
+              "RelativeDocumentMoniker": "LoginPanel.aspx",
+              "ToolTip": "C:\\Users\\BUSE\\Desktop\\Projeler\\Asp.Net_EOkulWeb\\EOkulWeb_Project\\LoginPanel.aspx",
+              "RelativeToolTip": "LoginPanel.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-18T19:22:06.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
